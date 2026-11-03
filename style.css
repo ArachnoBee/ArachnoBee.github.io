@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Press+Start+2P&display=swap");
+
+h1, h2, h3, h4, h5, h6, a, p {
+  font-family: EB Garamond;
+  color: #ffffff;
+}
+
+body {
+  background-color: #180033;
+  text-align: center;
+}
+
+hr {
+  color: #ffffff;
+  background-color: #ffffff;
+  height: 4px;
+}
+
+iframe {
+  border-style: solid;
+  border-radius: 5px;
+  border-width: 4px;
+  border-color: #ffffff;
+  width: 80%;
+  height: 555px;
+}
+
+#container {
+  border-radius: 4px;
+  border-width: 4px;
+  border-color: #ffffff;
+  width: 95%;
+  height: 133px;
+  border-style: solid;
+  background-color: #222222;
+}
+
+#discowars {
+  font-family: "Press Start 2P";
+}
